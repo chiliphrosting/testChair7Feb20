@@ -101,7 +101,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd materials from 1K-brick_wall_7_baseColor.jpg
+map_Kd materials from https://cdn.glitch.com/63579dea-1ce1-4741-b410-4aafaa2f82fb%2F1K-brick_wall_7_baseColor.jpg?v=1582224024126
 
 newmtl mat_-_wood_parquet
 Ns 33.284030
