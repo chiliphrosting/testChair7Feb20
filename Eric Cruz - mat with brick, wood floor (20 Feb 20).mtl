@@ -10,7 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd materials from shareTextures\\Wood parquet\\1K-Classic Parquet_11_baseColor.jpg
+map_Kd materials from https://cdn.glitch.com/63579dea-1ce1-4741-b410-4aafaa2f82fb%2F1K-Classic%20Parquet_11_baseColor.jpg?v=1582224158554
 
 newmtl amber.001
 Ns 60.000013
@@ -112,7 +112,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd materials from shareTextures\\Wood parquet\\1K-Classic Parquet_11_baseColor.jpg
+map_Kd materials from https://cdn.glitch.com/63579dea-1ce1-4741-b410-4aafaa2f82fb%2F1K-Classic%20Parquet_11_baseColor.jpg?v=1582224158554
 
 newmtl silver
 Ns 60.000013
