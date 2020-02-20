@@ -101,7 +101,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd materials from shareTextures\\brick wall\\1K-brick_wall_7_baseColor.jpg
+map_Kd materials from 1K-brick_wall_7_baseColor.jpg
 
 newmtl mat_-_wood_parquet
 Ns 33.284030
